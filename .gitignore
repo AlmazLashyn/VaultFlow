@@ -1,0 +1,15 @@
+.gradle/
+.kotlin/
+local.properties
+gradle/gradle-daemon-jvm.properties
+**/build/
+.idea/
+*.iml
+captures/
+.DS_Store
+Thumbs.db
+*.jks
+*.keystore
+*.hprof
+.externalNativeBuild/
+.cxx/
