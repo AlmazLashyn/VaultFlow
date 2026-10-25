@@ -2,7 +2,7 @@
 
 VaultFlow is an offline-first Android app for storing and viewing personal documents. Documents are encrypted on the device and are not uploaded to a server.
 
-**Author:** Almaz Lashin (Алмаз Лашин)
+**Author:** Almaz Lashyn (Алмаз Лашын)
 
 ## Features
 
